@@ -1,0 +1,8 @@
+moveForward(90);
+turnRight(90);
+moveforward(90);
+turnRight(90);
+moveForward(90);
+turnRight(90);
+moveForward(90);
+penColour('#000000')
